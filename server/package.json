@@ -8,7 +8,7 @@
     "dev":"node index.js"
     "build":"npm i"
   },
-  "author": "Potla SaiPrasad",
+  "author": "Bevara Mohan Sai",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
